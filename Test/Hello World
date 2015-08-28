@@ -4,4 +4,5 @@ using namespace std;
 int main(){
  cout << "Hello World" <<endl;
  cout << "Tests are ment for testing" << endl;
+ cout << "MOAR TESTING!!!!" << endl;
 }
